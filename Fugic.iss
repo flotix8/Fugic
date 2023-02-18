@@ -4,8 +4,8 @@
 #define MyAppName "Pong"
 #define MyAppVersion "1.0"
 #define MyAppPublisher "Flotix"
-#define MyAppURL "https://github.com/flotix8/Pong_Game"
-#define MyAppExeName "Pong.exe"
+#define MyAppURL "https://github.com/flotix8/Fugic"
+#define MyAppExeName "Fugic.exe"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
@@ -58,8 +58,8 @@ Name: "turkish"; MessagesFile: "compiler:Languages\Turkish.isl"
 Name: "ukrainian"; MessagesFile: "compiler:Languages\Ukrainian.isl"
 
 [Files]
-Source: "C:\Users\flori\Documents\main\Pong.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\flori\Documents\main\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Users\flori\Documents\Fugic\testFPS.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\flori\Documents\Fugic\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
