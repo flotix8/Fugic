@@ -5,7 +5,7 @@
 #define MyAppVersion "1.0"
 #define MyAppPublisher "Flotix"
 #define MyAppURL "https://github.com/flotix8/Fugic_Game"
-#define MyAppExeName "Fugic.EXE!!"
+#define MyAppExeName "Fugic.exe"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
