@@ -21,12 +21,12 @@ AppUpdatesURL={#MyAppURL}
 DefaultDirName={autopf}\{#MyAppName}
 DisableDirPage=yes
 DisableProgramGroupPage=yes
-LicenseFile=C:\Users\flori\Documents\main\License.txt
+LicenseFile=C:\Users\flori\Documents\Fugic\License.txt
 ; Remove the following line to run in administrative install mode (install for all users.)
 PrivilegesRequired=lowest
-OutputDir=C:\Users\flori\Documents\main\dist\
+OutputDir=C:\Users\flori\Documents\Fugic\
 OutputBaseFilename=Pong-setup-{#MyAppVersion}
-SetupIconFile=C:\Users\flori\Documents\main\pong.ico
+SetupIconFile=C:\Users\flori\Documents\Fugic\Fugic.ico
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
