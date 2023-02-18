@@ -1,5 +1,5 @@
 # Fugic
-Creative commons by-nc-sa Simple Pong game in pygame
+Creative commons by-nc-sa a 3D Game.
 
 Installation Go in releases tab and download source code or installer for windows Run Pong_game.py in the source code zip. Don't forget to install pygame with pip.
 
