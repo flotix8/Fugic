@@ -25,7 +25,7 @@ LicenseFile=C:\Users\flori\Documents\Fugic\License.txt
 ; Remove the following line to run in administrative install mode (install for all users.)
 PrivilegesRequired=lowest
 OutputDir=C:\Users\flori\Documents\Fugic\
-OutputBaseFilename=Fugic-setup-{#MyAppVersion}
+OutputBaseFilename=Fugic-{#MyAppVersion}
 SetupIconFile=C:\Users\flori\Documents\Fugic\Fugic.ico
 Compression=lzma
 SolidCompression=yes
